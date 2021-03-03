@@ -10,20 +10,45 @@ There are no teachers or students here, just programmers wanting to mess around 
 
 ### Why Crypto?
 
-1. Node and React are useful technologies in the crypto ecosystem. You can interact directly with the Ethereum blockchain using libraries like [web3](https://www.npmjs.com/package/web3) and most people interact with blockchains through web interfaces.
-2. You can do a lot with APIs - want to build a trading algorithm that trades bitcoin while you sleep? You can do it all through REST and websocket APIs. ([Quantative Trading](https://www.investopedia.com/terms/q/quantitative-trading.asp) is a whole discipline which you could dive in to if that's your jam).
+1. Node and React are useful technologies in the crypto ecosystem. You can interact directly with the Ethereum blockchain using libraries like [web3](https://www.npmjs.com/package/web3) and most people interact with blockchains through web interfaces so tools like react are super useful.
+2. You can also do a lot with APIs - want to build a trading algorithm that buys and sells bitcoin while you sleep? You can do it all through REST and websocket APIs. 
 3. A lot of crypto companies are remote friendly, so if you can get some experience in the space then the world is your oyster in terms of job prospects.
 4. A lot of crypto teams have community funds, so even without landing a job you can get paid to build things that are useful for crypto communities on a project basis.
 
+### Do I need to know anything about blockchains or crypto to join?
+
+Not at all. Whether you are completely new to the space or have been exploring the crypto rabbit hole for years, you are welcome to join.
+
+### How much time do I need to commit?
+
+It's completely up to you, but the more you put into it, the more you will get out of it.
+
 ### Is there a curriculum?
 
-Nope. We will crowdsource some useful learning resources but it will be very much a self directed learning environments.
+Nope. We will crowdsource some useful learning resources but it will be very much a self directed learning environment.
+
+### Is this a place to talk about investment and trading so I can make lots of money?
+
+Not really, there are plenty of other places to do that and this club is all about practicing programming in the context of crypto and blockchains. 
+
+### What does it cost?
+
+1 Bitcoin per person.
+
+Nah, not really. You pay by showing up and helping others in their learning journey. Everyone will be asked to re-up their membership when we open the club to new members.
 
 ### When can I join?
 
 We align with EDA bootcamps - new club members are welcome to join in the two week window after graduation (Week 0 and 1 of each cohort starting bootcamp). If you miss that window then you will need to wait 8 weeks until the next one.
 
+### Are there formal meetings?
+
+Three formal meetings per cohort on Thursday evenings at 7pm.
+- Week 2 - orientation and welcome new members
+- Week 5 - project presentations
+- Week 10 / 0 - project presentations
+
 ### How do I join?
 
-Easy, hit up JV in the EDA slack and send him your github username.
+Easy, hit up JV in the EDA slack / discord and send him your github username.
 
