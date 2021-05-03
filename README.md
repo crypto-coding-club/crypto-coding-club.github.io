@@ -21,7 +21,7 @@ Not at all. Whether you are completely new to the space or have been exploring t
 
 ### How much time do I need to commit?
 
-It's completely up to you, but the more you put into it, the more you will get out of it.
+It's completely up to you, there are no time requirements to be part of the club.
 
 ### Is there a curriculum?
 
@@ -29,7 +29,7 @@ Nope. We will crowdsource some useful learning resources but it will be very muc
 
 ### Is this a place to talk about investment and trading so I can make lots of money?
 
-Not really, there are plenty of other places to do that and this club is all about practicing programming in the context of crypto and blockchains. 
+No, there are plenty of other places to do that and this club is all about practicing programming in the context of crypto and blockchains. 
 
 ### What does it cost?
 
@@ -39,7 +39,7 @@ Nah, not really. You pay by showing up and helping others in their learning jour
 
 ### When can I join?
 
-We align with EDA bootcamps - new club members are welcome to join in the two week window after graduation (Week 0 and 1 of each cohort starting bootcamp). If you miss that window then you will need to wait 8 weeks until the next one.
+We align with EDA bootcamps - new club members are welcome to join in the two weeks after graduation. If you miss that window then you will need to wait until the next one.
 
 ### Are there formal meetings?
 
