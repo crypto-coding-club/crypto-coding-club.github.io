@@ -39,14 +39,11 @@ Nah, not really. You pay by showing up and helping others in their learning jour
 
 ### When can I join?
 
-We align with EDA bootcamps - new club members are welcome to join in the two weeks after graduation. If you miss that window then you will need to wait until the next one.
+Any time, just send JV a message in the EDA slack.
 
 ### Are there formal meetings?
 
-Three formal meetings per cohort on Thursday evenings at 7pm.
-- Week 2 - orientation and welcome new members
-- Week 5 - project presentations
-- Week 10 / 0 - project presentations
+JV will host a fortnightly lightning talk / show and tell session on Thursdays at 7pm. 
 
 ### How do I join?
 
