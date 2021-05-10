@@ -35,7 +35,7 @@ No, there are plenty of other places to do that and this club is all about pract
 
 1 Bitcoin per person.
 
-Nah, not really. You pay by showing up and helping others in their learning journey. Everyone will be asked to re-up their membership when we open the club to new members.
+Nah, not really. You pay by showing up and helping others in their learning journey. 
 
 ### When can I join?
 
